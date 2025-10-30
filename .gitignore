@@ -1,1 +1,3 @@
-node_modules
+/pdfs/
+node_modules/
+*.log
